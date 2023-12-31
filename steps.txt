@@ -1,9 +1,34 @@
 ### Getting Started
 -   Create a new react app with Vite (JavaScript)
 -   Install Tailwindcss (`npm install -D tailwindcss postcss autoprefixer`)
--   Init Tailwindcss (`npx tailwindcss init`)
+-   Init Tailwindcss (`npx tailwindcss init -p`)
 -   Update tailwind.config.js file
 -   Update index.css
 -   restructure the App.jsx file
--   Deleted App.css file and assets folder
+-   Deleted App.css file and assGitHubder
 -   Add assets from the GitHub
+-   Create constants file (/src/constants/index.js)
+-   Add constants code from the GitHub
+
+### Navbar design
+
+### Hero design
+-   GetStarted design
+
+### Stats design
+
+### Business design
+
+### Billing design
+
+### CardDeal design
+-   Button design
+
+### Testimonial design
+-   FeedbackCard design
+
+### Clients design
+
+### Footer design
+
+### Meta title & Favicon
