@@ -1,0 +1,9 @@
+### Getting Started
+-   Create a new react app with Vite (JavaScript)
+-   Install Tailwindcss (`npm install -D tailwindcss postcss autoprefixer`)
+-   Init Tailwindcss (`npx tailwindcss init`)
+-   Update tailwind.config.js file
+-   Update index.css
+-   restructure the App.jsx file
+-   Deleted App.css file and assets folder
+-   Add assets from the GitHub
