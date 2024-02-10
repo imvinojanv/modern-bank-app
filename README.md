@@ -1,6 +1,5 @@
 # Modern Bank App UI using ReactJS
 
-Commit using GitHub Web Editor
 
 Responsive design This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
